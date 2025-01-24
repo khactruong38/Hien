@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-const contentLetterSrart_actived = "Chúc mừng sinh nhật Hằng Em! Chúc mừng sinh nhật đặc biệt vào ngày 24/01! Hôm nay không chỉ là dịp để kỷ niệm thêm một năm tuổi mới mà còn là cơ hội để bắt đầu một hành trình mới đầy hứng khởi và thành công. Hy vọng hôm nay sẽ mang đến một ngày sinh nhật tràn đầy niềm vui, hạnh phúc. Chúc người tuổi mới thành công, có tất cả trừ vất vả nhé. Happy Birth Day! 🎂🎉🎁 " //Lời mở đầu cho bức thư
-=======
 const contentLetterSrart_actived = "Chúc mừng sinh nhật Hằng Em! Chúc mừng sinh nhật đặc biệt vào ngày 24/01! Ngày này không chỉ là dịp để kỷ niệm thêm một năm tuổi mới mà còn là cơ hội để bắt đầu một hành trình mới đầy hứng khởi và thành công. Hy vọng hôm nay sẽ mang đến một ngày sinh nhật tràn đầy niềm vui, hạnh phúc, tuổi mới thành công nhé. Sinh nhật vui vẻ nhé! 🎂🎉🎁 " //Lời mở đầu cho bức thư
->>>>>>> 3de67e72c4134fece7150a3dc4af6177d418bf2e
 const mainContentLetter = "" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
